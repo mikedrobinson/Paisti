@@ -1,0 +1,1 @@
+Add your raw_chicken and cooked_chicken images here as image sets in this directory using Xcode.
